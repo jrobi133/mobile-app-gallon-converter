@@ -51,6 +51,6 @@ none
 
 If you have any questions about the repo, open an issue or contact me directly at johnarobinson133@gmail.com. You can find more of my work at [jrobi133](https://github.com/jrobi133/).
 
-![](/assets/screenshots/test%20screenshot%201.PNG.PNG)
-![](/assets/screenshots/test%20screenshot%202%20with%20slider.PNG.PNG)
+![](/assets/screenshots/test%20screenshot%201.PNG)
+![](/assets/screenshots/test%20screenshot%202%20with%20slider.PNG)
 
